@@ -25,7 +25,7 @@ A Java-based application that provides a platform for users to recharge mobile p
 - **MySQL**: Set up a MySQL server and create the required database.
 - **Tomcat Server**: Apache Tomcat (version 8.x or above) installed and configured in Eclipse.
 
-- ### Screenshots:
+## Screenshots:
 ![1](https://github.com/user-attachments/assets/b5c85d9c-4fa3-40cb-b652-07aa888f2d04)
 ![2](https://github.com/user-attachments/assets/8d4bb9ea-53a1-415b-9e57-ed5a4a0af42d)
 ![5](https://github.com/user-attachments/assets/707f8e28-5448-4c07-a792-0fa8cb452592)
